@@ -10,13 +10,16 @@ h1 {
     color: black;
     text-align: center;
 }
+
 h2 {
     color: #483D8B;
 }
+
 p {
     color:  #5F9EA0;
 
 }
+
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
@@ -28,7 +31,4 @@ p {
 .itens {
 	color:  #5F9EA0;
 	text-decoration: underline;
-}
-.texto-principal {
-    margin-right: 20%; 
 }
