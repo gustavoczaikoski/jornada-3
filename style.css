@@ -6,6 +6,11 @@ header{
     
 }
 
+nav li {
+    display: inline;
+    margin: 5px;
+}
+
 #logo{
     
 }
