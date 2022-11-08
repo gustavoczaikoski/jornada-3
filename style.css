@@ -6,6 +6,11 @@ header{
     padding: 20px 0;
 }
 
+.teste {
+    height: 200px;
+    width: 200px;
+}
+
 .caixa-nav{
     position: relative;
     width: 1080px;
