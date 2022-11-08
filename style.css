@@ -8,7 +8,7 @@ header{
 
 .caixa-nav{
     position: relative;
-    width: 940px;
+    width: 1080px;
     margin: 0 auto;
 }
 
@@ -16,7 +16,7 @@ nav {
     display: inline-block;
     position: absolute;
     right: 70px;
-    top: 90px;
+    top: 65px;
 }
 
 nav li {
